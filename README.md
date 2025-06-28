@@ -39,10 +39,11 @@ POST /complaint – Submit complaint
 
 GET /complaints – Get all complaints (admin)
 
+## 👤 Roles
 
-👤 Roles
-User: Can submit complaints and track status
+- **User**: Can submit complaints and view status
+- **Admin**: Can view, manage, and resolve complaints
 
-Admin: Can view, manage, and resolve complaints
+---
 
-📬 Built with ❤️ by Gopi Krishna
+> 🛠️ *Built with ❤️ by Gopi Krishna*

@@ -38,3 +38,10 @@ POST /login – Login user
 POST /complaint – Submit complaint
 
 GET /complaints – Get all complaints (admin)
+
+👤 Roles
+User: Can submit complaints and track status
+
+Admin: Can view, manage, and resolve complaints
+
+📬 Built with ❤️ by Gopi Krishna

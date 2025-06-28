@@ -45,5 +45,8 @@ GET /complaints – Get all complaints (admin)
 - **Admin**: Can view, manage, and resolve complaints
 
 ---
+[▶️ Watch ResolveNow Demo](https://github.com/GopiKrishna-43/Resolvenow-Your-platform-for-online-complaints/blob/main/Video%20Demo/resolvenow.mp4?raw=true)
+
+---
 
 > 🛠️ **Built with ❤️ by Gopi Krishna**
